@@ -29,6 +29,9 @@
 	color: #534dab;
 	font-size: large;
 }
+.name > a {
+	font-size: 30px;
+}
 
 #skills, #projects, #experience, #education{
   background-color: #e9e9fb;
